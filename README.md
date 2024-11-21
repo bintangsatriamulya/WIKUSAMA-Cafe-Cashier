@@ -67,7 +67,7 @@ To set up the WIKUSAMA Cafe app, ensure the following software and tools are ins
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/bintangsatriamulya/WIKUSAMA-Cafe
+   https://github.com/bintangsatriamulya/WIKUSAMA-Cafe-Cashier-System
    ```
 2. **Open in Android Studio**:
    - Open the project in Android Studio and let it sync with Gradle.
@@ -100,14 +100,8 @@ For optimal performance when developing with Android Studio, it is recommended t
 1. Fork the repository.
 2. Create a new branch for your feature (`git checkout -b feature-name`).
 3. Commit your changes (`git commit -m 'Add new feature'`).
-4. Push to the branch (`git push wikusama 'feature-name`).
+4. Push to the branch (`git push origin 'feature-name`).
 5. Open a pull request.
-
----
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
 ---
 
@@ -117,4 +111,4 @@ For questions or collaboration, please contact the project maintainer at **[bint
 
 ---
 
-This `README.md` provides a structured overview and instructions for setting up, running, and contributing to the WIKUSAMA Cafe app. Be sure to replace `https://github.com/bintangsatriamulya/WIKUSAMA-Cafe` with your actual repository URL and **[bintangsatriamulya88@gmail.com]** with your contact email if needed.
+This `README.md` provides a structured overview and instructions for setting up, running, and contributing to the WIKUSAMA Cafe app. Be sure to replace `https://github.com/bintangsatriamulya/WIKUSAMA-Cafe-Cashier-System` with your actual repository URL and **[bintangsatriamulya88@gmail.com]** with your contact email if needed.
